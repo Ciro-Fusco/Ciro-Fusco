@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ciao sono Ciro Fusco,
+### Ciao sono Ciro Fusco, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Studio informatica presso l' Università degli studi di Salerno 💻
 
 - 🔭 Attualmente sono impegnato nella traduzione ufficiale della documentazione di Rust in italiano
