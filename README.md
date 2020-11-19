@@ -38,5 +38,5 @@
 
 
 ### 📈 Un po' di statistiche
-[![Ciro-Fusco's github stats](https://github-readme-stats.vercel.app/api?username=Ciro-Fusco&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-Fusco&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ciro-Fusco's github stats](https://github-readme-stats.vercel.app/api?username=Ciro-Fusco&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciro-Fusco&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
