@@ -1,7 +1,7 @@
 ### Ciao sono Ciro Fusco, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Studio sicurezza informatica presso l'Università degli Studi di Salerno 💻
 
-- 🔭 Attualmente sono impegnato nella traduzione ufficiale della documentazione di Rust in italiano
+- 🔭 Attualmente sono impegnato nello sviluppo di un tool per lo Speaker Recognition
 - 🌱 Sto affinando la conoscenza di Python
 - 📫 Potete contattarmi qui: cirof999@gmail.com
 - ⚡ Fun fact: Sono un volontario CRI e la sera mi piace guardare serie TV
